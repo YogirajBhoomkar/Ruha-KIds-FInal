@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e5aa39c-c5d3-481c-b9b6-2d0b06b37011" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/Constants/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/Screens/loginScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/Screens/mapScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/Screens/register.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/Screens/splashScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/Services/userAuthentication.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/fonts/Raleway-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/fonts/Raleway-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/fonts/Raleway-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/fonts/Raleway-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/images/loginFarmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/images/registerbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/farmtohomev1/lib/images/spashScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/fonts/Raleway-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/fonts/Raleway-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/fonts/Raleway-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/fonts/Raleway-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/images/loginFarmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/images/registerbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/images/spashScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/lib/Constants/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/lib/Screens/loginScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/lib/Screens/mapScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/lib/Screens/register.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/lib/Screens/splashScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /farmtohome/lib/Services/userAuthentication.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/124c5123adb40aa0facf2f82f201ffd6-desc.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/124c5123adb40aa0facf2f82f201ffd6-manifest.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/4f28a0f7c6db14e56d5b39e20f48ab1d-desc.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/4f28a0f7c6db14e56d5b39e20f48ab1d-manifest.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/79664075abd0a873400e9a7919f865b7-desc.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/79664075abd0a873400e9a7919f865b7-manifest.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/82e3d80d61a35f6ccb4171e71c17f003-desc.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/82e3d80d61a35f6ccb4171e71c17f003-manifest.xcbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/ios/build/XCBuildData/BuildDescriptionCacheIndex-1709fe7664968c6f1443731865001947" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/lib/Screens/homeScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/lib/Services/AuthServices.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internship - FarmToHome /fthve2/lib/temp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wishkart /.idea/Wishkart .iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1eTr4i7Nl2enX43jCQe4zRak8sc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e5aa39c-c5d3-481c-b9b6-2d0b06b37011" name="Default Changelist" comment="" />
+      <created>1594356234214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594356234214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="992" height="219" key="GridCell.Tab.0.bottom" timestamp="1594404563996">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="992" height="219" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594404563996" />
+    <state width="992" height="219" key="GridCell.Tab.0.center" timestamp="1594404563994">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="992" height="219" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1594404563994" />
+    <state width="992" height="219" key="GridCell.Tab.0.left" timestamp="1594404563993">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="992" height="219" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1594404563993" />
+    <state width="992" height="219" key="GridCell.Tab.0.right" timestamp="1594404563995">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="992" height="219" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1594404563995" />
+    <state x="310" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1594361446674">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="310" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1594361446674" />
+  </component>
+</project>
